@@ -4,3 +4,5 @@
 
 Дан [датасет обзоров на кофе](https://github.com/rfordatascience/tidytuesday/tree/master/data/2020/2020-07-07). 
 Задача: предсказать значение total_cup_points по остальным колонкам.
+
+Оценка производится по метрике mean absolute error (насколько в среднем вы отставали от правильного ответа)
